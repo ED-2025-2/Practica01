@@ -29,7 +29,7 @@ den los acercará más a convertirse en grandes programadores.
 4. La fecha de entrega se acordará en el laboratorio de clases.
 5. Al finalizar se debe compartir el link HTTPS y SSH por el classroom.
 
-#REespuestas
+# Respuestas
 - Archivo 100k: 
 - Archivo 200k
 - Archivo 800k
